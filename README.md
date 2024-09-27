@@ -120,7 +120,7 @@ O modelo foi treinado utilizando 782 imagens no total, divididas entre frutas ve
 Este projeto é licenciado sob a Licença Apache 2.0 - consulte o arquivo LICENSE para mais detalhes.
 Autor
 
-## Desenvolvido por [Seu Nome]
+## Desenvolvido por
 
 Izairton O de Vasconcelos
 <https://github.com/IOVASCON/IoT_Redes_Neurais_Artificiais.git>

@@ -1,0 +1,6 @@
+tensorflow==2.16.1  # Ou a versão mais recente disponível
+numpy
+matplotlib
+Pillow
+opencv-python
+scikit-learn
